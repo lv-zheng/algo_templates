@@ -2,8 +2,8 @@
 
 ## Linked List
 
-[import, graph_llist.hpp](graph_llist.hpp)
+[import, lang-cpp](graph_llist.hpp)
 
 ## Dijkstra
 
-[import, dijkstra.cpp](dijkstra.cpp)
+[import, lang-cpp](dijkstra.cpp)
